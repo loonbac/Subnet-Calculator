@@ -1,6 +1,6 @@
 # 🌐 Generador de Subredes en Python con Tkinter 🎉
 
-¡Bienvenido al **Generador de Subredes**! 🚀 Este es un proyecto divertido de una aplicación de escritorio desarrollada con Python usando la biblioteca Tkinter. Permite a los usuarios ingresar una dirección IP y una máscara de subred, para luego generar subredes basadas en la máscara ingresada y mostrar información útil sobre cada una de ellas.
+¡Bienvenido al **Generador de Subredes**! 🚀 Este es un proyecto de una aplicación de escritorio desarrollada con Python que hice en clase, usando la biblioteca Tkinter. Permite a los usuarios ingresar una dirección IP y una máscara de subred, para luego generar subredes basadas en la máscara ingresada y mostrar información útil sobre cada una de ellas.
 
 ## 🧑‍💻 Descripción general
 
